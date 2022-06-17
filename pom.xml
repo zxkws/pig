@@ -48,7 +48,7 @@
 		<captcha.version>2.0.0</captcha.version>
 		<velocity.version>1.7</velocity.version>
 		<jasypt.version>2.1.0</jasypt.version>
-		<fastjson.version>1.2.73</fastjson.version>
+		<fastjson.version>1.2.83</fastjson.version>
 		<swagger.fox.version>2.9.2</swagger.fox.version>
 		<swagger.core.version>1.5.24</swagger.core.version>
 		<xxl-job.version>2.2.0</xxl-job.version>
